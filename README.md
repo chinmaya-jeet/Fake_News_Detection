@@ -51,7 +51,7 @@ Give credit here.
 - This is an assignment from upgrad.
 
 ## Contact
-Created by [@chinmayajeet] - feel free to contact us!
+Created by [@chinmaya-jeet] - feel free to contact us!
 
 
 <!-- Optional -->
